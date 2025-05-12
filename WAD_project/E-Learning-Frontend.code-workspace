@@ -1,0 +1,97 @@
+{
+	"folders": [
+		{
+			"path": "../1/E-Learning-Frontend"
+		},
+		{
+			"path": "../frontend"
+		},
+		{
+			"path": "../frontend/10.0 Display Grid"
+		},
+		{
+			"path": "../frontend/10.1 Grid Sizing"
+		},
+		{
+			"path": "../frontend/10.2 Grid Placement"
+		},
+		{
+			"path": "../frontend/10.3 Mondrian Project"
+		},
+		{
+			"path": "../frontend/11.0 Bootstrap Intro"
+		},
+		{
+			"path": "../frontend/11.2 Bootstrap Components"
+		},
+		{
+			"path": "../frontend/11.3 TinDog Project"
+		},
+		{
+			"path": "../frontend/capsone-project-1"
+		},
+		{
+			"path": "../../../Downloads/Dicee+Challenge+-+Starting+Files"
+		},
+		{
+			"path": "../../../Downloads/Drum+Kit+Starting+Files"
+		},
+		{
+			"path": "../frontend/jquery"
+		},
+		{
+			"path": "../../../Downloads/Simon+Game+Challenge+Starting+Files/Simon Game Challenge Starting Files"
+		},
+		{
+			"path": "../../../Downloads/Simon+Game+Challenge+Step+7+Answer/Simon Game Challenge Step 7 Answer"
+		},
+		{
+			"path": "../../../Downloads/Simon+Game+Challenge+Step+10+Answer/Simon Game Challenge Step 10 Answer"
+		},
+		{
+			"path": "../../../Downloads/2.1+Using+Node/2.1 Using Node"
+		},
+		{
+			"path": "../../../Downloads/2.4+QR+Code+Project/2.4 QR Code Project"
+		},
+		{
+			"path": "../frontend/3.2 HTTP requests"
+		},
+		{
+			"path": "../../../Downloads/3.4+Middleware/3.4 Middleware"
+		},
+		{
+			"path": "../../../Downloads/npm registry"
+		},
+		{
+			"path": "../../../Downloads/3.5+Secrets+Project/3.5 Secrets Project"
+		},
+		{
+			"path": "../../../Downloads/ejs"
+		},
+		{
+			"path": "../../../Downloads/4.1+EJS+Tags/4.1 EJS Tags"
+		},
+		{
+			"path": "../../../Downloads/4.2+Passing+Data"
+		},
+		{
+			"path": "../../../Downloads/4.4+Band+Generator+Project/4.4 Band Generator Project"
+		},
+		{
+			"path": "../../../Downloads/5.2+JSON/5.2 JSON"
+		},
+		{
+			"path": "../../../Downloads/5.3+Axios/5.3 Axios"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/5.6+Secrets+Project/5.6 Secrets Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WAD_project"
+	}
+}

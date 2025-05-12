@@ -1,0 +1,64 @@
+{
+	"folders": [
+		{
+			"path": "../web_dev_practise"
+		},
+		{
+			"path": "../frontend/5.1. Adding CSS"
+		},
+		{
+			"path": "../frontend/5.3 CSS Selectors"
+		},
+		{
+			"path": "../frontend/solution"
+		},
+		{
+			"path": "../frontend/CSS font"
+		},
+		{
+			"path": "../frontend/6.3 CSS Box Model"
+		},
+		{
+			"path": "../frontend/6.4 Motivation Meme Project"
+		},
+		{
+			"path": "../frontend/7.1 Combining Selectors"
+		},
+		{
+			"path": "../frontend/7.2 CSS Positioning"
+		},
+		{
+			"path": "../frontend/7.3 CSS Flag Project"
+		},
+		{
+			"path": "../frontend/8.0 CSS Display"
+		},
+		{
+			"path": "../frontend/8.1 CSS Float"
+		},
+		{
+			"path": "../frontend/8.2 Responsiveness"
+		},
+		{
+			"path": "../frontend/8.3 Media Query"
+		},
+		{
+			"path": "../frontend/assets"
+		},
+		{
+			"path": "../frontend/8.4 Web Design Agency Project"
+		},
+		{
+			"path": "../frontend/9.0 Display Flex"
+		},
+		{
+			"path": "../frontend/9.1 Flex Direction"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WAD_project"
+	}
+}
